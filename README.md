@@ -24,6 +24,8 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Wikipedia "File sharing" category](https://en.wikipedia.org/wiki/Category:File_sharing) Wikipedia's full list of file-sharing related articles.
 
 ## Contents
+- [Hentai](#Hentai)
+- [Doujins](#doujins)
 - [VPNs](#vpns)
     - [VPN Guides and Tutorials](#vpn-guides-and-tutorials)
     - [VPN Subscription Services](#vpn-subscription-services)
@@ -171,14 +173,14 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [AnimeRam](https://ww2.animeram.cc/) A streaming website for dubbed/subbed anime.
 - [animepahe](https://animepahe.com/) A minimilistic anime streaming/download website, subs only.
 
-###HENTAI
+### HENTAI
 
 - [HentaiHaven.org](https://hentaihaven.me) Best Hentai Site Available on Internet
 - [Pornhub.com](https://pornhub.com) Contains many hentai with its unique design
 - [HentaiWeb.com](https://hentaiweb.com) Unique Design Good Collection
 - [Hanime.TV](https://hanime.cc) Trending Now
 
-###Doujins
+### Doujins
 
 - [Nhentai.Net](https://nhentai.to)
 - [8muses.io](https://nhentai.vip)
