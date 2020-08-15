@@ -1,4 +1,4 @@
-# KissAnime [![Awesome](https://awesome.re/badge.svg)](https://kissanimex.com)
+# KissAnime.Ru is BACK with Domain Change KissAnimex.Com [![Awesome](https://awesome.re/badge.svg)](https://kissanimex.com)
 
 > A curated list of arrrrrrrrr!
 
